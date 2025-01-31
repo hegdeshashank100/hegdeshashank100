@@ -23,9 +23,24 @@ Scan These QR
 
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/58121d14-1cd6-4d0f-aca7-7a7543829f5b" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd" width="45%" />
+  <img src="https://github.com/user-attachments/assets/58121d14-1cd6-4d0f-aca7-7a7543829f5b" width="35%" style="animation: glow 1.5s ease-in-out infinite; border-radius: 8px;" />
+  <img src="https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd" width="35%" style="animation: glow 1.5s ease-in-out infinite; border-radius: 8px;" />
 </p>
+
+<style>
+  @keyframes glow {
+    0% {
+      box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff00ff, 0 0 20px #ff00ff, 0 0 25px #ff00ff, 0 0 30px #ff00ff;
+    }
+    50% {
+      box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #00ffff, 0 0 20px #00ffff, 0 0 25px #00ffff, 0 0 30px #00ffff;
+    }
+    100% {
+      box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff00ff, 0 0 20px #ff00ff, 0 0 25px #ff00ff, 0 0 30px #ff00ff;
+    }
+  }
+</style>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
