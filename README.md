@@ -18,9 +18,10 @@ Hi, I'm Shashank Hegde, a passionate tech enthusiast and aspiring professional w
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/hegdeshashank100) 
 
-  ![bmc_qr](https://github.com/user-attachments/assets/58121d14-1cd6-4d0f-aca7-7a7543829f5b)
-
-  ![WhatsApp Image 2025-01-31 at 20 04 25_8db047d7](https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd)
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/58121d14-1cd6-4d0f-aca7-7a7543829f5b" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd" width="45%" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
