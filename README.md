@@ -1,22 +1,22 @@
 # 💫 About Me:
-Hi, I'm **Shashank Hegde** 👋 — a passionate tech enthusiast and aspiring professional with a strong foundation in **Computer Science, Design, and Project Development**.  
+Hi, I'm **Shashank Hegde** 👋 — a passionate tech enthusiast and aspiring professional with a foundation in **Computer Science, Design, and Project Development**.  
 
 🎓 Currently pursuing my studies at **PES Institute of Technology & Management, Shivamogga**, I focus on leveraging **cutting-edge technologies** to solve real-world challenges and build impactful solutions.  
 
-💡 My interests span across:  
-- 🤖 **Artificial Intelligence & Machine Learning** – AI-powered systems, chatbots, predictive models  
+💡 My interests include:  
+- 🤖 **AI & Machine Learning** – AI-powered systems, chatbots, predictive models  
 - 🌐 **Full-Stack Web Development** – PHP, Flask/FastAPI, MongoDB/MySQL, React.js  
 - 📱 **Mobile App Development** – Flutter, Firebase, Android (Kotlin, Jetpack Compose)  
-- 🎮 **Game Development & UI/UX Design** – exploring interactive apps & engaging interfaces  
+- 🎮 **Game Development & UI/UX Design** – interactive apps & engaging interfaces  
 
-✨ I’ve worked on projects like:  
-- 🩺 **Skin Disease Detector** (AI-powered plant/human disease detection using ML & Gemini API)  
-- 🧠 **Mental Health Support Platform** (AI chatbot + crisis prevention system)  
-- 🎵 **Music Player App** (intuitive design & seamless audio experience)  
-- 🌱 **SmartAgri** (weather & pest alert system, farmer-focused Flutter app)  
-- 🔐 **SentinelTriage** (Cyber Triage Tool with React.js + FastAPI + MongoDB)  
+✨ Projects I’ve worked on:  
+- 🩺 **Skin Disease Detector** – AI-powered disease detection (plants & humans)  
+- 🧠 **Mental Health Support Platform** – AI chatbot + crisis prevention  
+- 🎵 **Music Player App** – intuitive design & seamless audio experience  
+- 🌱 **SmartAgri** – weather & pest alert system, farmer-focused Flutter app  
+- 🔐 **SentinelTriage** – Cyber Triage Tool (React.js + FastAPI + MongoDB)  
 
-⚡ **Driven by curiosity & innovation**, I aim to craft meaningful user experiences while continuously exploring **AI, Flutter, and modern development frameworks**.  
+⚡ **Driven by curiosity & innovation**, I strive to craft meaningful user experiences while continuously exploring **AI, Flutter, and modern development frameworks**.  
 
 ---
 
@@ -28,7 +28,7 @@ Hi, I'm **Shashank Hegde** 👋 — a passionate tech enthusiast and aspiring pr
 ---
 
 # 💻 Tech Stack:
-**Languages & Core:**  
+**Languages:**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -40,22 +40,14 @@ Hi, I'm **Shashank Hegde** 👋 — a passionate tech enthusiast and aspiring pr
 **Frameworks & Tools:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
 
-**Web & Backend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+**Databases & Cloud:**  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
 **Design & Productivity:**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -88,5 +80,3 @@ Scan these QR codes 👇
 </p>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
