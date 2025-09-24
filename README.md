@@ -66,7 +66,7 @@ Hi, I'm **Shashank Hegde**, a passionate tech enthusiast with a strong foundatio
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hegdeshashank100&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegdeshashank100&theme=dark&hide_border=true" height="180"/><br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdeshashank100&theme=dark&hide_border=true&layout=compact" height="150"/>
 </p>
 
@@ -88,9 +88,3 @@ Hi, I'm **Shashank Hegde**, a passionate tech enthusiast with a strong foundatio
   <img src="https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd" width="30%" />
 </p>
 
----
-
-<p align="center">
-  👀 Profile Views <br/>
-  <img src="https://visitcount.itsvg.in/api?id=hegdeshashank100&icon=0&color=0" />
-</p>
