@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%F0%9F%8C%90;Tech+Enthusiast+%E2%9A%A1;Building+Impactful+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+</p>
 
----
+<br />
 
 ## 🙋‍♂️ About Me
 
@@ -24,19 +24,20 @@
 
 <br clear="right"/>
 
----
+<br />
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hegdeshashank100&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 
----
+<br />
 
 ## 🔥 Featured Projects
 
 <div align="center">
-  
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **🩺 Skin Disease Detector** | AI-powered skin condition analysis | TensorFlow, Python, Flutter |
@@ -47,17 +48,18 @@
 
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
+</p>
 
----
+<br />
 
 ## 💻 Tech Stack
 
 <div align="center">
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -67,12 +69,14 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Tools
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -80,66 +84,76 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Design
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+</p>
 
----
+<br />
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hegdeshashank100&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hegdeshashank100&theme=radical&hide_border=true&background=0d1117"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdeshashank100&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hegdeshashank100&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</div>
+</p>
 
----
+<br />
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shashank.hegde.2805)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-hegde-06a53531b)
-[![Twitter](https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Shashan08590736)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hegdeshashank100)
+<p align="center">
+  <a href="https://www.instagram.com/shashank.hegde.2805">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashank-hegde-06a53531b">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Shashan08590736">
+    <img src="https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/hegdeshashank100">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+</p>
 
----
+<br />
 
 ## 💰 Support My Work
 
-<div align="center">
+<p align="center">
+  <a href="https://buymeacoffee.com/hegdeshashank100">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hegdeshashank100)
-
-### Or scan these QR codes 👇
+<h3 align="center">Or scan these QR codes 👇</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/58121d14-1cd6-4d0f-aca7-7a7543829f5b" width="30%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/d53e701f-ba9e-497c-bd3c-44a9400545fd" width="30%" />
 </p>
 
-</div>
+<br />
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hegdeshashank100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+</p>
