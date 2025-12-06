@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=1800&height=150&lines=Hi+%F0%9F%91%8B+I'm+Shashank+Hegde;AI+%26+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00C4CC&center=true&vCenter=true&multiline=true&width=1400&height=160&lines=Hi+%F0%9F%91%8B+I'm+Shashank+Hegde;AI+%26+Flutter+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Explorer+%F0%9F%8C%90;Tech+Enthusiast+%E2%9A%A1;Building+Impactful+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full-Stack+Explorer+%F0%9F%8C%90;Tech+Enthusiast+%E2%9A%A1;Building+Impactful+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
