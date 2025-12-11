@@ -32,14 +32,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hegdeshashank100&theme=radical&no-frame=true&margin-w=4&row=1" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 <div align="center">
