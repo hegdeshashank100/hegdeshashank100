@@ -100,15 +100,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hegdeshashank100&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=hegdeshashank100&theme=radical&hide_border=true&background=0d1117" />
 </p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdeshashank100&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hegdeshashank100&theme=react-dark&hide_border=true&area=true" width="100%">
-</p>
-
 ---
 
 ## 🌐 Connect with Me
